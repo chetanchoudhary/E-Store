@@ -1,0 +1,14 @@
+footer{
+    background-color: dimgrey;
+    color: #fff;
+    padding: 10px 0;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-decoration: none;
+
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
